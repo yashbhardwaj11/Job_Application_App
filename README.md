@@ -90,5 +90,5 @@ This project is a comprehensive Spring Boot application that covers the basics o
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yashbhardwaj11/Job_Application_App
    cd <repository-directory>
